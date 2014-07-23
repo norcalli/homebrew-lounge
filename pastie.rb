@@ -1,12 +1,12 @@
 require 'formula'
 
-class Pbdo < Formula
+class Pastie < Formula
   homepage 'https://github.com/norcalli/scripts'
   url 'https://github.com/norcalli/scripts', :using => :git
-  version '0.1.1'
+  version '1.6'
 
   def install
-    bin.install "pbdo"
+    bin.install "pastie"
   end
 
   test do
