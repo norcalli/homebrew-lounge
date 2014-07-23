@@ -1,8 +1,8 @@
 require 'formula'
 
 class ToggleOsxShadows < Formula
-  homepage 'https://github.com/norcalli/homebrew-toggle-osx-shadows'
-  url 'https://github.com/norcalli/homebrew-toggle-osx-shadows.git', :using => :git
+  homepage 'https://github.com/puffnfresh/toggle-osx-shadows.git'
+  url 'https://github.com/puffnfresh/toggle-osx-shadows.git', :using => :git
 
   def install
     system "make"
