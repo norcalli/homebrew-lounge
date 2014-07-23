@@ -1,6 +1,6 @@
 #homebrew-lounge
 
-##Repository for homebrew formulas that I'll take charge of maintaining
+####Repository for homebrew formulas that I'll take charge of maintaining
 
-So far:
+Currently includes:
 - `toggle-osx-shadows`: Tiny tool to toggle window shadows on OS X
