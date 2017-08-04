@@ -12,7 +12,7 @@ class CurlTransform < Formula
 
   stable do
     url "https://github.com/norcalli/curl_transform/releases/download/0.0.1/curltransform.zip"
-    sha1 "e129e5b06c1e4ed8571ab577c4f36213f47e0760"
+    sha256 "cfe383b58c47488baa2d1bc950e6f43083c0b9f91c15dbb2c4325712c5020168"
 
     depends_on "erlang"
   end
